@@ -21,27 +21,24 @@ FitIn eshte nje aplikacion fitnesi qe na ndihmon qe te i kryejm ushtrimet ne men
 Fillimisht perdoruesi duhet te regjistrohet, ku edhe nese e mbyll aplikacionin, te dhenat e tij ruhen permes shared preferences. Pastaj mund te logohet ne menyre qe te mund te i perdor funksionet e ketij aplikacioni, perdoruesi gjithashtu ka mundesi qe ta ndryshoje passwordin.
 ## Functions
 This project has these functions:
+* Save Data
+* Show Data
+* Delete Data
 * Animation
-* 
-* 
-* 
-* 
-* 
-* 
 ## Virtualization
-* Main:
+* Save data: In this page we can write our username and age and we can save with save button.
 <p align="center">
-<img src="./Figures/Hyrja.jpg" alt="activity_main" width="250" height="500">
+<img src="./Figures/1.PNG" alt="save-data" width="250" height="500">
 </p>
 
-* Regjistrimi:
-
-* Login: 
-
+* Show and Delete data: With Show button we can show our saved data and we can delete all of our data with the delete button.
 <p float="left" align="center">
-  <img src="./Figures/register.jpg" alt="activity_register" width="250" height="500">
-  <img src="./Figures/login.jpg" alt="activity_main" width="250" height="500">
-  <img src="./Figures/passwordchange.jpg" alt="activity_register" width="250" height="500">
+  <img src="./Figures/2.PNG" alt="show-delete_data" width="250" height="500">
+</p>
+
+* Animation: If we click the animation button the buttom itself will rotate.
+<p float="left" align="center">
+  <img src="./Figures/3.PNG" alt="animation" width="250" height="500">
 </p>
 ## Installation
 
