@@ -36,8 +36,8 @@ This project has these functions:
 <p float="left" align="center">
   <img src="./Figures/3.PNG" alt="animation" width="250" height="500">
 </p>
-## Installation
 
+## Installation
 This application must be cloned or downloaded and then connected to a physical connection between a PC and an Android phone that can be installed on the phone, or can even be simulated virtually by Android Studio.
 
 ## More
