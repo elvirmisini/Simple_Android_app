@@ -14,9 +14,7 @@ This application is build with Java programming language.<br />
 * [Installation](#installation)
 * [More](#more)
 ## Introduction
-FitIn eshte ndertuar per paisjet mobile Android. Screenshots te marrur nga telefoni duke qene ne <strong>dark mode.<br></strong>
-FitIn eshte nje aplikacion fitnesi qe na ndihmon qe te i kryejm ushtrimet ne menyre te rregullt.Nder funksionet tjera FitIn gjithashtu posedon edhe nje Reminder, Code Scanner(Qr code,bar code etj), Music Player, Workout Programs , Chronometer, Bmi Calculator, Map etc.
-Fillimisht perdoruesi duhet te regjistrohet, ku edhe nese e mbyll aplikacionin, te dhenat e tij ruhen permes shared preferences. Pastaj mund te logohet ne menyre qe te mund te i perdor funksionet e ketij aplikacioni, perdoruesi gjithashtu ka mundesi qe ta ndryshoje passwordin.
+Project+ is a simple android application where we can save our username and age, and than we can see them with the Show Button, you can also see some animation, just click Other button and than click Animation button and the button itself will rotate. We can also delete all of our data with delete button.
 ## Functions
 This project has these functions:
 * Save Data
