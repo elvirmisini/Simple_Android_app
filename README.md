@@ -1,5 +1,3 @@
-"Not Completed Read-Me"
-
 # Simple_Android_app - Project+
 This application is build with Java programming language.<br />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
